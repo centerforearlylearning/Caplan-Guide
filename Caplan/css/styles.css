@@ -1,0 +1,99 @@
+/***************************************Tag Selectors**************************************/
+body{
+    background-color:white;
+    font-family: Arial, sans-serif;
+    margin-top:0;
+    margin-left:0;
+    margin-right:0;
+}
+
+
+td{
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    text-align:left;
+}
+
+h1{
+    font-size:3.5rem;
+}
+
+h2{
+    text-align:center
+}
+/***************************************Class Selectors**************************************/
+.banner{
+    width: 100%;
+}
+
+.headshot{
+    width: 200px;
+}
+
+.dotted-line{
+    border-style:dotted none none none;
+    border-width: 5px;
+    width:20%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.center-dropdown{
+    text-align:center;
+}
+
+.example-picture{
+    width:20%;
+    border-radius:100%;
+}
+
+.first{
+    position: relative;
+    padding-top: 5%;
+}
+
+.targetSkills{
+    text-align: center;
+}
+
+.category{
+    text-align:left;
+    width:20%;
+}
+
+.top-container{
+    margin-top:0;
+    margin-left:0;
+    margin-right:0;
+    text-align:center;
+}
+
+.middle-container{
+  background-color:#EAEAEA;
+  padding-bottom:25px;
+  padding-top:25px;
+}
+
+.footer-container{
+    text-align:justify;
+    background-color:white;
+    margin-top:30px;
+}
+
+.title-picture{
+    width:20%;
+}
+
+.centered-header{
+    width:50%;
+    margin: 50px auto 50px auto;
+}
+
+/***************************************ID Selectors**************************************/
+#heading{
+    text-align: center;
+}
