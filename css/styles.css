@@ -47,7 +47,7 @@ h2{
 }
 
 .example-picture{
-    width:20%;
+    width:25%;
     border-radius:100%;
 }
 
@@ -89,7 +89,16 @@ h2{
 }
 
 .centered-header{
-    width:50%;
+    width:75%;
+    margin: 50px auto 50px auto;
+}
+
+.left-align{
+    text-align:left
+}
+
+.domain-banner{
+    width:75%;
     margin: 50px auto 50px auto;
 }
 
